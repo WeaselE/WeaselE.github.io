@@ -1,12 +1,7 @@
 body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     /* background-image: radial-gradient(rgb(228, 0, 0), rgb(82, 0, 0)); */
-    background-image: url("home_src/background.jpg");
-    background-size: cover;
-    transform: rotate("background.jpg");
-    background-position-x: 50%;
-    background-position-y: 50%;
-    background-repeat: repeat-x;
+    background-color: gray;
     color:white;
     /* background-image: url(holder.jpg);
     background-size: 15%; */
