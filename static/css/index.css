@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: green;
+}
+
+.profile-image{
+    width: 200px;
+    height: auto;
+}
