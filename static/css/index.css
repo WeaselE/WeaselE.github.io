@@ -1,9 +1,10 @@
 body {
-    background-color: black;
-    color: green;
+    background-color: #24292f;
+    color: white;
 }
 
 .profile-image{
     width: 200px;
     height: auto;
+    text-align: center;
 }
