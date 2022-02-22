@@ -1,0 +1,7 @@
+* Add resume
+* Add Tableau work
+* Add I211 pages database website work
+* Add best python project
+
+* Rest of webiste should reflect the complete resume?
+* Change color theme?
